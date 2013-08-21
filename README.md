@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # grunt-shadow
 
 > Shadow/Replace global variables for Non-AMD libs.
@@ -60,4 +61,3 @@ grunt.initConfig({
 
 ## Release History
 
-Not available
