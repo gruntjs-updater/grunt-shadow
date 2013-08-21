@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # grunt-shadow
 
 > Shadow/Replace global variables for Non-AMD libs.
